@@ -1,0 +1,36 @@
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\bin\Debug\HomeTicaretCore.dll.config
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\bin\Debug\HomeTicaretCore.dll
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\bin\Debug\HomeTicaretCore.pdb
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.dll
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.xml
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.csprojAssemblyReference.cache
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.csproj.CoreCompileInputs.cache
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.csproj.CopyComplete
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.dll
+C:\Users\furka\Source\Repos\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.pdb
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\bin\Debug\HomeTicaretCore.dll.config
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\bin\Debug\HomeTicaretCore.dll
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\bin\Debug\HomeTicaretCore.pdb
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.dll
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.xml
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.csprojAssemblyReference.cache
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.csproj.CoreCompileInputs.cache
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.csproj.CopyComplete
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.dll
+C:\Users\Section3\Desktop\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.pdb
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\bin\Debug\HomeTicaretCore.dll.config
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\bin\Debug\HomeTicaretCore.dll
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\bin\Debug\HomeTicaretCore.pdb
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.csprojAssemblyReference.cache
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.csproj.CopyComplete
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.dll
+C:\Users\furka\Desktop\MVC Projeleri\HomeTicaret\HomeTicaretCore\obj\Debug\HomeTicaretCore.pdb

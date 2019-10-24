@@ -1,0 +1,40 @@
+Mvc ile E-Ticaret
+
+Ürün
+ -Ürün ile ilgili iþlemler
+ -Ürün listesi
+ -Ürün sepete ekleme
+ -Ürün kýyaslanabilmeli
+ -Ürün favori listesine eklenebilmeli
+Kategori
+ -Kategori iþlemleri
+Marka
+ -Marka Ýþlemleri
+Sepet
+ -Satýn alýnmak istenen ürünler adet ve tutar bilgileri ile birlikte sepette listelenmeli
+ -Toplam tutar gösterilmeli
+Alýþveriþ Tamamlamak
+ -Ödeme Seçenekleri
+ -Kapýda Ödeme, Havale, Kredi Kartý
+ -Sanal Pos sisteminin uygulamaya entegre edilmesi
+Müþteri
+ -Müþteri sisteme üye olabilmeli ve giriþ yapabilmeli
+ -Müþteri Paneli
+	-Daha önceden yapmýþ olduðu alýþveriþler
+	-Sipariþlerin hangi aþamada olduðu görülmeli
+	-Ýsterse yeni haberlerden haberdar edilebilmeli
+
+Admin
+ -Kayýtlý müþteriler ve bilgileri görülebilmeli
+ -Müþterilerin yapmýþ olduðu alýþveriþler görülebilmeli
+ -Sipariþler görülüp düzenlenebilmeli
+ -Ürün, Kategori, Marka vb kýsýmlar düzenlenebilmeli
+Ödeme ve Þikayet Ýþlemleri
+ -Kargo iþlemleri
+ -SSL Sertifikasý
+ -3D Secure Sertifikasý
+Raporlar
+ -Hangi ürün ne kadar satýlmýþ
+ -Raporlarýn admin panelinde gösterilmesi
+
+Raporlar

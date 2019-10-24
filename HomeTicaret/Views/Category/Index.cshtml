@@ -1,0 +1,63 @@
+﻿@model List<HomeTicaretCore.Entity.Product>
+@{
+    ViewBag.Title = "Index";
+    var cagegory = (HomeTicaretCore.Entity.Category)ViewBag.category;
+    var isLogin = (bool)ViewBag.IsLogin;
+}
+
+<h3>@cagegory.Name Kategorisindeki Ürünler</h3>
+<div class="container">
+    <div class="col-md-12">
+        <div class="row">
+            @{
+                foreach (var item in Model)
+                {
+                    <div class="productBox">
+                        <p class="title"> @item.Name</p>
+                        <img src="@item.ImageUrl" />
+                        <p>
+                            @item.Brand
+                        </p>
+                        <p>
+                            @item.Price.ToString("##,## ₺")
+                        </p>
+                        <p>
+                            @item.Description
+                        </p>
+                        <a href="/urun/@item.Name.Replace(" ","-")/@item.ID" class="btn btn-success">İncele</a>
+                        @{ if (isLogin)
+                            {
+                                <a href="#" data-pID="@item.ID" class="btn btn-dark addBasket"><i class="fas fa-shopping-basket"></i>Sepete Ekle</a>
+                            }
+                        }
+                    </div>
+                }
+            }
+        </div>
+
+    </div>
+</div>
+<div class="row"></div>
+<style>
+    .productBox {
+        width: 250px;
+        float: left;
+        margin: 10px;
+        border: 2px solid #ff0000;
+        padding: 10px;
+    }
+
+        .productBox img {
+            width: 100%;
+        }
+
+        .productBox .title {
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .productBox p {
+            text-align: center;
+        }
+</style>
+
